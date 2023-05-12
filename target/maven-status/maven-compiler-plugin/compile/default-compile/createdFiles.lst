@@ -1,0 +1,5 @@
+com\example\gs\entities\User.class
+com\example\gs\services\UserService.class
+com\example\gs\controller\UserController.class
+com\example\gs\SpringBootH2dbConnectApplication.class
+com\example\gs\repositories\UserRepository.class
